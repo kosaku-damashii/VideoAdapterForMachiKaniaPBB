@@ -7,8 +7,8 @@
 http://www.ze.em-net.ne.jp/~kenken/machikania/typepu.html
 
 Video Adapter for MachiKania type P BBの特徴<BR>
-	メモリカードは、SDカード / microSDカード に対応しています。（択一です）<BR>
-	回路を追加することで、電源ON時にLEDを点灯させることができます。<BR>
-	回路を追加することで、起動時のBEEP音を鳴らすことが出来ます。<BR>
+・メモリカードは、SDカード / microSDカード に対応しています。（択一です）<BR>
+・回路を追加することで、電源ON時にLEDを点灯させることができます。<BR>
+・回路を追加することで、起動時のBEEP音を鳴らすことが出来ます。<BR>
 
 ![image](https://github.com/user-attachments/assets/362f0d3e-4cf3-400d-90c4-77db9ebfdeb6)
